@@ -291,6 +291,7 @@ const proxy = new Corrosion({
   ],
 });
 ```
+owned by me.
 
 #### blacklist
   - `arr` Array of hostnames to block clients from seeing.
